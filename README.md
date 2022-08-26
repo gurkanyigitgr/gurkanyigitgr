@@ -4,7 +4,7 @@
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/VsIzjbp1YqdGg/giphy.gif" width="80px" height="80px"></h1>
-<h1 align="center"><img src="https://media.giphy.com/media/QWrCFpI965negKDo0n/giphy.gif" width="1000px" height="100px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/QWrCFpI965negKDo0n/giphy.gif" width="800px" height="100px"></h1>
 <h1 align="center">I'm Gürkan Yiğit</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkanyigitgr" alt="gurkanyigitgr" /> </p>
 
