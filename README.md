@@ -3,8 +3,8 @@
 
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/VsIzjbp1YqdGg/giphy.gif" width="10%" height="80px"></h1>
-<h1 align="center"><img src="https://media.giphy.com/media/QWrCFpI965negKDo0n/giphy.gif" width="90%" height="65px" ></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VsIzjbp1YqdGg/giphy.gif" width="80px" height="80px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/QWrCFpI965negKDo0n/giphy.gif" width="90%" height="50px" ></h1>
 <h1 align="center">I'm Gürkan Yiğit</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkanyigitgr" alt="gurkanyigitgr" /> </p>
 
