@@ -28,8 +28,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript
 <p align="center">
   <a href="mailto:gurkanyigitgr@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/gurkanyigitgr/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://gurkanyigitgr.github.io/csschallenge/"><img src="https://img.shields.io/badge/Web%20Site-9146FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://tr.linkedin.com/in/ahmet-g%C3%BCrkan-yi%C4%9Fit-b40290215"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gurkanyigit/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
