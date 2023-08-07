@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkanyigitgr" alt="gurkanyigitgr" /> </p>
 
 
-<p align="center"><strong>As a dynamic Frontend Developer, I am dedicated to creating user-friendly and visually appealing web applications.</strong></p>
+<p align="center"><strong>As a committed individual, I am dedicated to advancing as a skilled Full Stack Web Developer, driven by my passion for coding, which fuels my pursuit of excellence in both front-end and back-end development.</strong></p>
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF5ajQ4MGlrc3JtZmlhbTZzMWZ3eXBtOTVoczlhbHRtYWk2djgxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W6LvJ3rgpb68b2EA11/giphy.gif" width="200" height="200"/>
  
